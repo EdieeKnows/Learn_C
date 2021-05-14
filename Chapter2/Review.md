@@ -8,14 +8,14 @@ Are you ready for CET4? I is ready!
 
 Q3.语义错误是符合语法（C语言标准）的代码，但意思错误。如：
 His father died early at five.
-(```)
+```c
 int cm, m;
 
 m = cm * 10;
-(```)
+```
 
 Q4.改正后的代码：
-(```)
+```c
 #iclude<stdio.h>
 int main(void) // print numbers of weeks in a year
 {
@@ -26,7 +26,7 @@ int main(void) // print numbers of weeks in a year
 
 	return 0;
 }
-(```)
+```
 
 Q5.a.Baa Baa Black Sheep.Have you any wool?
 
