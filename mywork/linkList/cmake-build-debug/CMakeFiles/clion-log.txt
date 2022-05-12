@@ -1,0 +1,4 @@
+C:\WINDOWS\system32\wsl.exe --distribution Ubuntu-18.04 --exec /bin/bash -c "export CLION_IDE=TRUE && export JETBRAINS_IDE=TRUE && cd /home/xyz/Learn_C/mywork/linkList/cmake-build-debug && /usr/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G 'CodeBlocks - Unix Makefiles' /home/xyz/Learn_C/mywork/linkList"
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/xyz/Learn_C/mywork/linkList/cmake-build-debug

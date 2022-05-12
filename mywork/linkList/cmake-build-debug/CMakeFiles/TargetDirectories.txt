@@ -1,0 +1,3 @@
+/home/xyz/Learn_C/mywork/linkList/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/xyz/Learn_C/mywork/linkList/cmake-build-debug/CMakeFiles/linkList.dir
+/home/xyz/Learn_C/mywork/linkList/cmake-build-debug/CMakeFiles/edit_cache.dir
