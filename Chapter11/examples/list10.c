@@ -8,7 +8,7 @@ char *s_gets(char * st, int n)
     ret_val = fgets(st, n, stdin);
     if(ret_val)
     {
-        while(ret_val[0] != '\n' && ret_val != '\0')
+        while(ret_val[i] != '\n' && ret_val[i] != '\0')
             i++;
         if(ret_val[i] == '\n')
             ret_val[i] = '\0';
